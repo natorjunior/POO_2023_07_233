@@ -6,6 +6,6 @@ public class Main {
         relogio.setHora(13);
         relogio.setMinutos(45);
         String horaAtual = relogio.getHoraAtual();
-        System.out.println("Hora Atual:" + horaAtual);
+        System.out.println("Hora Atual: " + horaAtual);
     }
 }

@@ -2,6 +2,7 @@ package Relogio;
 
 public class Relogio {
     private int hora;
+
     public int getHora() {
         return hora;
     }
@@ -10,6 +11,7 @@ public class Relogio {
     }
 
     private int minutos;
+    
     public int getMinutos() {
         return minutos;
     }
